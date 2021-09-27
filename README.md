@@ -4,7 +4,7 @@
 
 In this rep you'll see:
 * Computer logic
-* instruiction to solve the problems
+* Instructions to solve the problems
 * One guy trying to riding yours computer
 
 ![njoy](https://i.pinimg.com/originals/41/85/b5/4185b53d71c0d7e7995f51aee3c6cbcd.gif)

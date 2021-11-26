@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/F%C3%A1bio%20de%20Andrade-challenges-red"> <img src="https://img.shields.io/badge/javascript-green">
+
 # Challenges - Code Wars, Hacker Rank and others
 ## in this repository i'll put a kind of a TIL (today i learned) to check and update how it is my level in challenges.
 ## 💻Only in **JS**
